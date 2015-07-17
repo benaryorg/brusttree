@@ -1,0 +1,13 @@
+[package]
+name = "brusttree"
+version = "0.1.0"
+authors = ["benaryorg <binary@benary.org>"]
+
+description = """
+An implementation of a B+ tree in Rust which has two primary goals.
+
+- I want to learn Rust
+- if it turns out to work it might replace the std implementation if it has
+  some clear purrformance gains
+"""
+
