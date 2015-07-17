@@ -10,4 +10,5 @@ An implementation of a B+ tree in Rust which has two primary goals.
 - if it turns out to work it might replace the std implementation if it has
   some clear purrformance gains
 """
+license = "MIT"
 
